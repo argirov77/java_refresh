@@ -35,7 +35,7 @@ class Car {
         if(this==obj) return true;
         if(obj==null || obj.getClass()!=getClass()) return false;
         Car car = (Car) obj;
-        return Objects.equals(mark,car.mark) && Objects.equals(car.model,model) ;
+        return Objects.equals(mark, car.mark) && Objects.equals(car.model,model) ;
     }
 
     @Override

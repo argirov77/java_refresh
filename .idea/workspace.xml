@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d51644a-25ce-429a-9da1-87df339f90f0" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
+    <list default="true" id="8d51644a-25ce-429a-9da1-87df339f90f0" name="Changes" comment="tasks about car is solved">
+      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "Application.Cars.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Task2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -69,11 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1736011693661</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tasks about car is solved">
+      <option name="closed" value="true" />
+      <created>1736087881925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736087881925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="tasks about car is solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks about car is solved" />
   </component>
 </project>
