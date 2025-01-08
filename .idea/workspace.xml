@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d51644a-25ce-429a-9da1-87df339f90f0" name="Changes" comment="2 more similar tasks">
+    <list default="true" id="8d51644a-25ce-429a-9da1-87df339f90f0" name="Changes" comment="3erd task">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +41,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Cars.executor": "Run",
+    "Application.Exception1.executor": "Run",
+    "Application.Exeption.executor": "Run",
+    "Application.Exeption1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/dmitriystoykov/Desktop/Personal/study/letcode/src/Main.java"
@@ -85,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736103098032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3erd task">
+      <option name="closed" value="true" />
+      <created>1736106523442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736106523442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,6 +112,7 @@
     <MESSAGE value="tasks about car is solved" />
     <MESSAGE value="2" />
     <MESSAGE value="2 more similar tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 more similar tasks" />
+    <MESSAGE value="3erd task" />
+    <option name="LAST_COMMIT_MESSAGE" value="3erd task" />
   </component>
 </project>

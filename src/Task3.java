@@ -19,6 +19,10 @@ class Student{
         this.name= n ;
         this.id = nextId++;
     }
+    @Override
+    public String toString(){
+        return ("the name is " + this.name);
+    }
 
 
 }

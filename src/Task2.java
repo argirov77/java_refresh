@@ -39,4 +39,8 @@ class Product{
     public int hashCode(){
         return Objects.hash(name);
     }
+    @Override
+    public String toString(){
+        return ("the name is " + this.name);
+    }
 }
